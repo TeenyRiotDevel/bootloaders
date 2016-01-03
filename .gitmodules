@@ -1,0 +1,6 @@
+[submodule "develop/usbasp-tiny"]
+	path = develop/usbasp-tiny
+	url = git@github.com:TeenyRiotDevel/usbasp-tiny.git
+[submodule "develop/micronucleus"]
+	path = develop/micronucleus
+	url = git@github.com:TeenyRiotDevel/micronucleus.git
